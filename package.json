@@ -1,0 +1,24 @@
+{
+  "name": "fetch-via-typescript",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "@types/axios": "0.14.0",
+    "@types/jest": "^22.0.0",
+    "@types/node": "^8.5.5",
+    "@types/react": "^16.0.34",
+    "@types/react-dom": "^16.0.3"
+  },
+  "dependencies": {
+    "axios": "0.17.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts-ts": "2.8.0"
+  }
+}
